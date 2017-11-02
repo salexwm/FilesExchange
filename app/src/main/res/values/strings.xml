@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FilesExchange</string>
+    <string name="activity_title_discovery">Discovery</string>
+    <string name="activity_title_advertisement">Advertise</string>
+</resources>
